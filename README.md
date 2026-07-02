@@ -18,13 +18,13 @@ This project was designed and deployed using AWS cloud-native services with a fo
 
 AWS Infrastructure
 
-- Amazon CloudTrail
-- Amazon S3 (Private Log Storage)
+- CloudTrail
+- S3 (Private Log Storage)
 - AWS Lambda
 - Amazon Bedrock
-- Amazon DynamoDB
-- Amazon IAM
-- Amazon CloudWatch
+- DynamoDB
+- IAM
+- CloudWatch
 
 Every action performed within the AWS account such as IAM changes, console logins, permission modifications, or security group updates is recorded by AWS CloudTrail.
 
