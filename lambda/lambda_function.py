@@ -10,9 +10,9 @@ dynamodb = boto3.resource("dynamodb")
 bedrock = boto3.client("bedrock-runtime")
 sns = boto3.client("sns")
 
-TABLE_NAME = "CloudTrailSecurityFindings"
+TABLE_NAME = "__________________"
 MODEL_ID = "amazon.nova-micro-v1:0"
-SNS_TOPIC_ARN = "YOUR_SNS_TOPIC_ARN_HERE"
+SNS_TOPIC_ARN = "_________________"
 
 table = dynamodb.Table(TABLE_NAME)
 
