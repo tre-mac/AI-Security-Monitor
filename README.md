@@ -14,7 +14,9 @@ This project was designed and deployed using AWS cloud-native services with a fo
 - Demonstrate cloud security, automation, and AI integration
 
 # Architecture 
-<img width="814" height="196" alt="Screenshot 2026-06-25 at 12 28 03 PM" src="https://github.com/user-attachments/assets/f67bc101-adcf-40fb-877f-8ae6e9e9cf4d" />
+
+<img width="926" height="468" alt="Screenshot 2026-07-02 at 12 44 29 PM" src="https://github.com/user-attachments/assets/e760fca3-24df-4b55-9b33-10a74f8249f5" />
+
 
 AWS Infrastructure
 
